@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradyotsrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="pradyotsrivastava" /> </p>
 
-- 🔭 I’m currently working as a **Junior Full Stack Developer**
+- 🔭 I’m currently working as a **Full Stack Developer** at **At Infotech Edge Pvt Ltd**, on a content & learning management system.
 
-- 🌱 I’m currently learning **DevOps, Redux & Postgre SQL**
+- 🌱 I’m currently learning **DevOps & Postgre SQL**
 
-- 🤝 I’m actively seeking a full-time role as a **MERN Stack Developer**
+- 🤝 I’m actively seeking a full-time role as a **Full Stack Developer** aiming to contribute and grow within a dynamic team.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/pradyotsrivastava/pradyot.portfolio)
 
