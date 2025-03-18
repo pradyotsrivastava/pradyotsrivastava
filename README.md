@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **DevOps & Postgre SQL**
 
-- 🤝 I’m actively seeking a full-time role as a **Full Stack Developer** aiming to contribute and grow within a dynamic team.
+- 🤝 I’m actively seeking a full-time role as a **Full Stack Software Developer** aiming to contribute and grow within a dynamic team.
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pradyot-portfolio.vercel.app/)
 
 - 📫 How to reach me **pradyotsrivastava93@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1R8XmEMzFCOzq9ufp4hHpXfcF676ThmoF/view)
+- 📄 Know about my experiences [My Resume](https://res.cloudinary.com/dvwxzy0yl/image/upload/f_auto,q_auto/v1/resume/Pradyot_Full_Stack_SDE)
 
 - ⚡ Fun fact **I possess exceptional communication skills and strong leadership qualities.😉**
 
